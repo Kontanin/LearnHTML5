@@ -1,0 +1,44 @@
+/* selector */
+
+div{
+    background-color:aqua;
+     margin:60px;
+}
+
+header{
+    text-align:center; 
+    margin:20px; 
+    background-color:darkslategray;  
+    color:white; 
+}
+h1{
+    Color:rgb(246, 252, 251);
+}
+
+/* class selector */
+.box{
+    background-color:rgb(212, 0, 255);
+     margin:60px;
+     font-size:60Px;
+
+}
+.button {color: black;
+    background-color:#00ff11;
+    display:block;
+
+    width:30%;
+
+
+}
+.newdisplay{
+    background-color:rgba(243, 4, 4, 0.861);
+    display:inline-block;
+
+    width:30%
+}
+.newdisplay2{
+    background-color:rgba(171, 4, 243, 0.861);
+    display:inline-block;
+
+    width:40%
+}
